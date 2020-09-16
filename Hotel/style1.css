@@ -1,0 +1,11 @@
+body
+{background-color:cyan;color:blue}
+h1{text-align:center;text-decoration:bold;text-decoration:underline}
+h2{text-align:center}
+img.one
+{border-style:solid;border-width:5px;border-color:black;width:1000px}
+p.one{color:pink;font-family:arial;font-size:24px;text-align:center}
+p.two{color:black;font-size:24px;text-align:center}
+marquee{color:black;font-size:24px}
+img.two{height:100px;width:100px}
+a{color:red;font-size:24px}
